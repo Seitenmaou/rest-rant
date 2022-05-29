@@ -5,7 +5,7 @@ function home(){
     return (
         <Def>
             <main>
-                <h1>HOME</h1>
+                <h1>REST-Rant</h1>
                 <div>
                     <img src="/images/brenda-godinez-MsTOg6rhRVk-unsplash.jpg" alt='Chia Fruit Shake'/>
                     <div>
@@ -15,6 +15,7 @@ function home(){
                 <a href='/places'>
                     <button className="btn-primary">Places Page</button>
                 </a>
+                
             </main>
         </Def>
     )
