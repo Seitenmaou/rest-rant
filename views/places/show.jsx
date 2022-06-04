@@ -10,3 +10,5 @@ function show () {
         </Def>
     )
 }
+
+module.exports = show
